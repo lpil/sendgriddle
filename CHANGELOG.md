@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Updated the `gleam_stdlib` constraint to allow using `v1.0.0`.
+
 ## v1.0.0 - 2025-08-03
 
 - Renamed to `sendgriddle`.
